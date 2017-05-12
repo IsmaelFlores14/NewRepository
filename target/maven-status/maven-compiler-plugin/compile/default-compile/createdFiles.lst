@@ -1,0 +1,5 @@
+com\mycompany\agendaweb\services\ApplicationConfig.class
+com\mycompany\agendaweb\services\AbstractFacade.class
+com\mycompany\agendaweb\entities\Contacto_.class
+com\mycompany\agendaweb\services\ContactoFacadeREST.class
+com\mycompany\agendaweb\entities\Contacto.class
